@@ -5,7 +5,7 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/luankato/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/luankat0/)
 
-![Kato's GitHub stats](https://github-readme-stats.vercel.app/api?username=n3waz&theme=tokyonight&show_icons=true)
+![Kato's GitHub stats](https://github-readme-stats.vercel.app/api?username=luankat0&theme=tokyonight&show_icons=true)
 
 ### Some tools I work with (and have worked with):
 
